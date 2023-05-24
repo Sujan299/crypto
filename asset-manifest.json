@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/crypto/static/js/main.35060886.js",
+    "main.js": "/crypto/static/js/main.a24ae541.js",
+    "static/media/coinpic.png": "/crypto/static/media/coinpic.a85b6de0dc4a013ae2f8.png",
     "index.html": "/crypto/index.html",
-    "main.35060886.js.map": "/crypto/static/js/main.35060886.js.map"
+    "main.a24ae541.js.map": "/crypto/static/js/main.a24ae541.js.map"
   },
   "entrypoints": [
-    "static/js/main.35060886.js"
+    "static/js/main.a24ae541.js"
   ]
 }
